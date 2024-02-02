@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small-Interior-Scene
+* source:	https://sketchfab.com/3d-models/small-interior-scene-b07d958dd64f4e97a619b860dd6155f6
+* author:	Monarch (https://sketchfab.com/monarchpbr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small-Interior-Scene" (https://sketchfab.com/3d-models/small-interior-scene-b07d958dd64f4e97a619b860dd6155f6) by Monarch (https://sketchfab.com/monarchpbr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
